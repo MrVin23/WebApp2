@@ -39,5 +39,5 @@ st.text_input(label="",
               on_change=add_todo,
               key='new_todo')
 
-print("Hello")
-st.session_state
+# print("Hello")
+# st.session_state
